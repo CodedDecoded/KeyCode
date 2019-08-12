@@ -10,4 +10,3 @@ keyname.innerHTML = "spacebar";
 else
 keyname.innerHTML = e.key;
 });
-alert("dinesh");
